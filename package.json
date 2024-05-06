@@ -1,0 +1,24 @@
+{
+  "name": "10functionalities-nareshnandam",
+  "version": "1.0.0",
+  "description": "In this package you get 10 javascript array functionalities that can be useful for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nareshkumarnandam/10functionalities.git"
+  },
+  "keywords": [
+    "array",
+    "methods",
+    "javascript"
+  ],
+  "author": "Naresh Kumar Nandam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nareshkumarnandam/10functionalities/issues"
+  },
+  "homepage": "https://github.com/nareshkumarnandam/10functionalities#readme"
+}
